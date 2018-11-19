@@ -1,11 +1,4 @@
-/*  DHT11/ DHT22 Sensor Temperature and Humidity Tutorial
- *  Program made by Dejan Nedelkovski,
- *  www.HowToMechatronics.com 
- */
-/*
- * You can find the DHT Library from Arduino official website
- * https://playground.arduino.cc/Main/DHTLib
- */
+
 #include <LiquidCrystal.h> // includes the LiquidCrystal Library
 #include <dht.h>
 #define dataPin 8
