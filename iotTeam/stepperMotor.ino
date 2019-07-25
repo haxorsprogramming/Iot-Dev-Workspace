@@ -1,6 +1,7 @@
 const int stepPin = 3; 
 const int dirPin = 4; 
- 
+const int plugPin = 2;
+
 void setup() {
   // Sets the two pins as Outputs
   pinMode(stepPin,OUTPUT); 
