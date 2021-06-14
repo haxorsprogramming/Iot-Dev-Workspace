@@ -1,1 +1,3 @@
 Daftar planning IoT
+
+- Bikin robot yang bisa bikin robot
